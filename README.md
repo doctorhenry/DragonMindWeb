@@ -1,4 +1,4 @@
-# DragonMindWeb
+# DragonMind on the Web
 
 Welcome to DragonMind, a game where you play as the hero of a town in the middle of a crisis. You have the power to change how the game ends when interacting with the villagers, so choose wisely!
 
